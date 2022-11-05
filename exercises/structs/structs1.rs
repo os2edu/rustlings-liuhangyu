@@ -27,6 +27,7 @@ mod tests {
         assert_eq!(green.blue, 0);
     }
 
+    
     #[test]
     fn tuple_structs() {
         // TODO: Instantiate a tuple struct!
